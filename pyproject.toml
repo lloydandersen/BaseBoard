@@ -1,0 +1,9 @@
+[project]
+name = "baseboard"
+version = "0.1.0"
+description = "General Contractor takeoff and estimation software. Completely open, Fully Free."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "customtkinter>=5.2.2",
+]
